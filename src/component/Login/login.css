@@ -1,0 +1,139 @@
+body{
+    background: url('../img/body-of-water-near-green-mountain-931018@2x.png');
+    width: 100%;
+    height: 300px;
+}
+.container{
+    margin: auto;
+    margin-top: 20px;
+    width: 450px;
+    height: 560px;
+    background: #FFFFFFE6 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+}
+.Patrick_Conboy{
+    position: absolute;
+    top: -20px;
+    left: 537px;
+    width: 293px;
+    height: 63px;
+}
+
+.Patrick_Conboy h1{
+padding-top: 88px;
+text-align: center;
+text-align: left;
+font-family: 'Girassol', cursive;
+letter-spacing:1.8px;
+font-size: 25px;
+color: #00A8CC;
+opacity: 1;
+}
+
+.Patrick_Conboy span{
+    font-size: 40px;
+}
+
+.Patrick_Conboy h3{
+font-family: 'Libre Baskerville', serif;
+margin-left: -120px;
+}
+p{
+    margin-left: -100px;
+    margin-top: -10px;
+    font-family: 'Poppins', sans-serif;
+    color: #142850;
+
+}
+
+#email{
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+    left: -81px;
+    top: 260px;
+    position: absolute;
+    font-weight: bold;
+}
+.email_inpt{
+margin-top: 30px;
+border-top: none;
+border-left: none;
+border-right: none;
+outline: none;
+font-family: 'Poppins', sans-serif;
+padding: 5%;
+width: 120%;
+background: transparent;
+margin-left: -100px;
+}
+
+
+
+
+#passwords{
+    font-size: small;
+    left: -80px;
+    top: 340px;
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.password{
+margin-top: 30px;
+border-top: none;
+border-left: none;
+border-right: none;
+outline: none;
+font-family: 'Poppins', sans-serif;
+padding: 5%;
+width: 120%;
+background: transparent;
+margin-left: -100px;
+}
+#Remember{
+    position: absolute;
+    font-size: 16px;
+    margin-left: -50px;
+    margin-top: 26px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.checkboxs{
+    float: left;
+    margin-left: -80px;
+    margin-top: 30px;
+}
+#forget_password{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 140px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+button{
+    cursor: pointer;
+   width: 130%;
+   padding: 10px;
+   margin-left: -80px;
+   margin-top: 60px;
+   background-color: #142850;
+   outline: none;
+   border: none;
+   color: white;
+}
+h4{
+    font-family: 'Poppins', sans-serif;
+    margin-left: -60px;
+    margin-top: 10px
+}
+#a_forget{
+    color: black;
+}
+#copy_rights{
+    color: var(--unnamed-color-ffffff);
+    font-family: 'Poppins', sans-serif;
+    color: #FFFFFF;
+    margin-left: 20px;
+    opacity: 1;
+}

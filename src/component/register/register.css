@@ -1,0 +1,336 @@
+.container_Register{
+    margin: auto;
+    margin-top: 20px;
+    width: 700px;
+    height: 1150px;
+    background: #FFFFFFE6 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+}
+.Patrick_Conboy_reg{
+    position: absolute;
+    top: -20px;
+    left: 507px;
+    width: 393px;
+    height: 63px;
+}
+#p{
+    font-size: 30px;
+}
+#c{
+    font-size: 30px;
+}
+
+
+.Patrick_Conboy_reg h3{
+    font-family: 'Libre Baskerville', serif;
+    margin-left: -120px;
+    }
+
+.Patrick_Conboy_reg h1{
+    font-weight: bold;
+    padding-top: 88px;
+    text-align: center;
+    text-align: left;
+    margin-left: 57px;
+    font-family: 'Girassol', cursive;
+    letter-spacing:3px;
+    font-size: 20px;
+    color: #00A8CC;
+    opacity: 1;
+}
+#reg{
+    margin-bottom: 20px;
+}
+    
+#personal{
+   padding-top: 26%;
+   margin-bottom: 10px;
+
+}
+.container_Register ul li{
+    float: left;
+}
+
+.inputs{
+border-top: none;
+border-left: none;
+border-right: none;
+outline: none;
+font-family: 'Poppins', sans-serif;
+padding: 3%;
+width: 290px;
+background: transparent;
+margin-left: 5px;
+}
+
+.lastName{
+border-top: none;
+border-left: none;
+border-right: none;
+outline: none;
+font-family: 'Poppins', sans-serif;
+padding: 3%;
+width: 290px;
+margin-left: 50px;
+background: transparent;
+}
+.buisness_name{
+    margin-top: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 3%;
+    width: 290px;
+    margin-left: 10px;
+    background: transparent;
+}
+.email_address{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 3%;
+    width: 290px;
+    margin-left: 50px;
+    background: transparent;
+}
+.phone_number{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 3%;
+    width: 290px;
+    margin-top: 35px;
+    margin-left: 10px;
+    background: transparent;
+}
+.reg_password{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 3%;
+    width: 290px;
+    margin-left: 50px;
+    background: transparent;
+}
+.reg_confirm{
+    margin-top: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 3%;
+    width: 290px;
+    margin-left: -330px;
+    background: transparent;
+}
+
+#address_1{
+    position: absolute;
+    top: 128%;
+    margin-left: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+#address_2{
+    position: absolute;
+    top: 128%;
+    margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.reg_address_1{
+    margin-top: 100px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 3%;
+    width: 290px;
+    margin-left: 10px;
+    background: transparent;
+}
+
+.reg_address_2{
+    margin-top: 80px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 3%;
+    width: 290px;
+    margin-left: 50px;
+    background: transparent;
+
+}
+.zip_code{
+    margin-top: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    padding: 3%;
+    width: 290px;
+    margin-left: -320px;
+    background: transparent;  
+}
+#zip{
+position: absolute;
+top: 147%;
+margin-left: -320px;
+font-family: 'Poppins', sans-serif;
+font-weight: bold;
+}
+
+.btn{
+    position: absolute;
+    width: 120px;
+    top: 830px;
+    left: 920px;
+}
+
+
+#firstName{
+position: absolute;
+top: 45%;
+margin-left: 2px;
+font-family: 'Poppins', sans-serif;
+font-weight: bold;
+}
+#lastName{
+    position: absolute;
+    top: 45%;
+    margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold; 
+}
+#business{
+    position: absolute;
+    top: 62%;
+    margin-left: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;   
+}
+#email_address{
+    position: absolute;
+    top: 62%;
+    margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;   
+}
+#phone_number{
+    position: absolute;
+    top: 80%;
+    margin-left: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;  
+}
+#password{
+    position: absolute;
+    top: 80%;
+    left: 48.5%;
+    margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;  
+}
+#country{
+    position: absolute;
+    top: 96%;
+    left: 48.5%;
+    margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;    
+}
+#confirm{
+    position: absolute;
+    top: 96%;
+    left: 21.4%;
+    margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;  
+}
+
+#state{
+    position: absolute;
+    top: 112%;
+    left: 21.4%;
+    margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;  
+}
+
+#city{
+    position: absolute;
+    top: 112%;
+    left: 48.4%;
+    margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;  
+}
+
+.dropdown{
+    position: absolute;
+    width:300px;
+    height:"70px";
+    border:"none";
+    background:transparent;
+    outline:"none";
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: grey;
+    border-width: 2px;
+}
+.dropdown:hover{
+    background: transparent;
+    border-width: 2px;
+    border-color: grey;
+}
+#terms{
+    position: absolute;
+    margin-top: 47px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+.checkboxes{
+    position: absolute;
+    left: 27%;
+    margin-top: 50px;
+}
+.span_terms{
+    color: #00A8CC;
+}
+.register{
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 90px;
+}
+#account{
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+#login{
+    margin-left: 5px;  
+    font-weight: bold;
+}
+
+.tax{
+margin-left:220px;
+margin-top: -90px;
+font-weight: bold;
+font-family: 'Poppins', sans-serif;
+}
